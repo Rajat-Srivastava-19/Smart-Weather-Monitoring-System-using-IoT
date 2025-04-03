@@ -1,7 +1,7 @@
 # Smart-Weather-Monitoring-System-using-IoT
 <html>
 <head>
-    <title>Readme</title>
+    
 </head>
 <body>
     This is my Smart Weather Monitoring System using IoT project. In this project, the following three parameters are monitored:<br>
